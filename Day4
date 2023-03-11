@@ -1,0 +1,9 @@
+Q1 ans - Using git status command we have to check git is available or not on system.
+Q2 ans - Using git init command we initalize a new git repository .
+Q3 ans - Using git config--global user.name "  " and config--global user.email "   " commands we have to tell git about your name and email.
+Q4 ans - Using git add command
+Q5 ans - Using git rm command
+Q6 ans - Using git commit-m <some message> command 
+Q7 ans - To push the commit from the local repo to your remote repositories, run git push -u remote-name branch-name where remote-name is the nickname the local repo uses for the remote repositories 
+and branch-name is the name of the branch to push to the repository. You only have to use the -u option the first time you push.
+Q8 ans - git pull is a (clone(download) + merge) operation and mostly used when you are working as teamwork. In other words, when you want the recent changes in that project, you can pull. The clone will setup additional remote-tracking branches.
